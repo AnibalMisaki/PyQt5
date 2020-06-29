@@ -1,0 +1,36 @@
+<RCC>
+  <qresource prefix="source">
+    <file>img/Abrir.png</file>
+    <file>img/Agregar.png</file>
+    <file>img/allow.png</file>
+    <file>img/Cancelar.png</file>
+    <file>img/Cargando.gif</file>
+    <file>img/changepass.png</file>
+    <file>img/close.png</file>
+    <file>img/Copiar.png</file>
+    <file>img/min.png</file>
+    <file>img/deluser.png</file>
+    <file>img/denied.png</file>
+    <file>img/Editar-SM.png</file>
+    <file>img/Editar.png</file>
+    <file>img/edituser.png</file>
+    <file>img/Eliminar-SM.png</file>
+    <file>img/Empty.png</file>
+    <file>img/Error.png</file>
+    <file>img/Exportar.png</file>
+    <file>img/if_16_1751363.ico</file>
+    <file>img/if_16_1751363.png</file>
+    <file>img/iiie.png</file>
+    <file>img/Importar-SM.png</file>
+    <file>img/Importar.png</file>
+    <file>img/logo.png</file>
+    <file>img/NoImage.png</file>
+    <file>img/OK.png</file>
+    <file>img/Password.png</file>
+    <file>img/Reportes-SM.png</file>
+    <file>img/max.png</file>
+    <file>img/Reportes.png</file>
+    <file>img/retry.png</file>
+    <file>img/Usuario.png</file>
+  </qresource>
+</RCC>

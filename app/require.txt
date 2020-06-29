@@ -1,0 +1,6 @@
+pyqt5==5.14.1
+requests==2.22.0
+webcolors==1.11.1
+pymongo==3.10.1
+py_expression_eval==0.3.9
+openpyxl==3.0.4
